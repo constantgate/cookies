@@ -1,0 +1,35 @@
+body {
+  background-color: #EDEDED;
+
+  text-align:center;
+  vertical-align:middle;
+}
+ul {
+color: #93B5C6;
+list-style-position: inside;
+text-align: center;
+}
+h1 {
+  color: #C9CCD5;
+  font-size: 50px;
+  font-family: "Gill Sans", sans-serif;
+}
+h3 {
+  color: #C9CCD5;
+  font-size: 50px;
+  font-family: "Gill Sans", sans-serif;
+}
+img {
+  height: 150px;
+}
+p {
+  color: #93B5C6;
+  font-family: "Gill Sans", sans-serif;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C9CCD5;
+  border-width: 5px;
+  width: 10%;
+}
